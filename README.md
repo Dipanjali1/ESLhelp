@@ -1,2 +1,2 @@
 # ESLhelp
-A learning tool for ESL program.
+A visual learning tool for ESL program.
